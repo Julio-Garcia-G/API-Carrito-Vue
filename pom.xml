@@ -12,7 +12,7 @@
 	<artifactId>carrito_backend</artifactId>
 	<version>0.0.1</version>
 	<name>carrito_backend</name>
-	<description>Backend para base de datos de portal web con carrito</description>
+	<description>Backend para base de datos de sitio web con carrito</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
